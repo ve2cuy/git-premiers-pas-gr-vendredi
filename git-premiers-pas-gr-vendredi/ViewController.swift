@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("je suis la ligne 15")
         print("je suis aussi la ligne 15")
-        // Do any additional setup after loading the view, typically from a nib.
+        print("Et moi, je suis la ligne 17")        // Do any additional setup after loading the view, typically from a nib.
         print("viewDidLoad")
         afficher("bonjour git", fois: 5)
     }
