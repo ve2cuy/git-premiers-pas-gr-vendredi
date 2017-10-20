@@ -12,6 +12,7 @@
 		B5675B1B1F9A29510078EF18 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5675B191F9A29510078EF18 /* Main.storyboard */; };
 		B5675B1D1F9A29510078EF18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5675B1C1F9A29510078EF18 /* Assets.xcassets */; };
 		B5675B201F9A29510078EF18 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5675B1E1F9A29510078EF18 /* LaunchScreen.storyboard */; };
+		B5675B291F9A31100078EF18 /* arbreDeGit-2.png in Resources */ = {isa = PBXBuildFile; fileRef = B5675B281F9A30EA0078EF18 /* arbreDeGit-2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B5675B1C1F9A29510078EF18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5675B1F1F9A29510078EF18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5675B211F9A29510078EF18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5675B281F9A30EA0078EF18 /* arbreDeGit-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arbreDeGit-2.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		B5675B141F9A29510078EF18 /* git-premiers-pas-gr-vendredi */ = {
 			isa = PBXGroup;
 			children = (
+				B5675B271F9A30840078EF18 /* Ressources */,
 				B5675B151F9A29510078EF18 /* AppDelegate.swift */,
 				B5675B171F9A29510078EF18 /* ViewController.swift */,
 				B5675B191F9A29510078EF18 /* Main.storyboard */,
@@ -62,6 +65,14 @@
 				B5675B211F9A29510078EF18 /* Info.plist */,
 			);
 			path = "git-premiers-pas-gr-vendredi";
+			sourceTree = "<group>";
+		};
+		B5675B271F9A30840078EF18 /* Ressources */ = {
+			isa = PBXGroup;
+			children = (
+				B5675B281F9A30EA0078EF18 /* arbreDeGit-2.png */,
+			);
+			path = Ressources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +137,7 @@
 				B5675B201F9A29510078EF18 /* LaunchScreen.storyboard in Resources */,
 				B5675B1D1F9A29510078EF18 /* Assets.xcassets in Resources */,
 				B5675B1B1F9A29510078EF18 /* Main.storyboard in Resources */,
+				B5675B291F9A31100078EF18 /* arbreDeGit-2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
