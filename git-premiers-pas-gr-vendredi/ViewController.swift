@@ -4,7 +4,7 @@
 //
 //  Created by Alain on 17-10-20.
 //  Copyright © 2017 Alain. All rights reserved.
-//
+//. ##### Ajout d'un commentaire via GitHub. #########
 
 import UIKit
 
